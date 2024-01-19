@@ -1,4 +1,6 @@
 Wij hebben alles gepair programmed samen met elkaar op 1 computer dus we hebben samen alles op 1 laptop gedaan.
+Repository: https://github.com/ArminIR/SDE_Calculator
+
 
 Singleton Patroon:
 Garandeert dat een klasse slechts één instantie heeft en biedt een wereldwijde toegangspunt ernaar. 
